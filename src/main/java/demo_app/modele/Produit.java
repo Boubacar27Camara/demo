@@ -21,4 +21,6 @@ public class Produit {
     private String description;
     private Integer prix;
 
+    
+
 }
